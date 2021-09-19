@@ -10,7 +10,7 @@ Se puede realizar la instalación desde la siguiente página. https://nodejs.org
 Instalación 
 
 1 - Clonar el repositorio 
-    git clone https://github.com/Archila/prueba_finca.git
+    <br>git clone https://github.com/Archila/prueba_finca.git
 
 2 - Ingresar a la carpeta llamada api desde la consola o terminal
 
@@ -29,3 +29,6 @@ Instalación
     <br><b>npm start</b>
 
 8 - Abrir la siguiente ruta desde un navegador http://localhost:4200/
+
+
+Hecho por: Iván Esteban Archila
