@@ -78,7 +78,7 @@ function uniqueId(){
     let random = Math.floor(Math.random()*(max-min+1) + min);
     let messages = JSON.parse(localStorage.getItem('messages'));
     let msg = messages.find(x => x.id == random);
-    if(msg){
+    if(msg || !random){
         uniqueId()
     } else {
         return random;
