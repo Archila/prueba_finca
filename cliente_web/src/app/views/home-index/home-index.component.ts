@@ -28,7 +28,7 @@ export class HomeIndexComponent implements OnInit {
       (response:any) => {
         if(response == null){
           this.state = 204;
-          this.msg = "Key added succesfuly";
+          this.msg = "Key added successfully";
           sessionStorage.setItem('key', this.key );
           sessionStorage.setItem('shared_secret', this.shared_secret);
         } 
