@@ -14,18 +14,18 @@ Instalación
 
 2 - Ingresar a la carpeta llamada api desde la consola o terminal
 
-3 - Ejecutar el siguiente comando dentro de la carpeta api/
-    npm install
+3 - Ejecutar el siguiente comando dentro de la carpeta <b>api/</b>
+    <br><b>npm install</b>
 
-4 - Iniciar el servidor de la API REST que estará funcionando el el puerto 3000 con el siguiente comando
-    npm start
+4 - Iniciar el servidor de la API REST que estará funcionando en el puerto 3000 con el siguiente comando
+    <br><b>npm start</b>
 
-5 - Abrir otra pestaña de la consola o terminal e ingresar a la carpeta llamada app(cliente_web)
+5 - Abrir otra pestaña de la consola o terminal e ingresar a la carpeta llamada <b>cliente_web/</b>
 
-6 - Ejecutar el siguiente comando dentro de la carpeta app(cliente_web)
-    npm install
+6 - Ejecutar el siguiente comando dentro de la carpeta <b>cliente_web/</b>
+    <br><b>npm install</b>
 
-7 - Iniciar el cliente web que estará funcionando el el puerto 4200 con el siguiente comando
-    npm start
+7 - Iniciar el cliente web que estará funcionando en el puerto 4200 con el siguiente comando
+    <br><b>npm start</b>
 
 8 - Abrir la siguiente ruta desde un navegador http://localhost:4200/
